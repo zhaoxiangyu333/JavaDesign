@@ -1,5 +1,8 @@
 package cn.blz.design.principle.dependencereversion;
 
+/**
+ * 依赖倒置原则
+ */
 public class Test {
     public static void main(String[] args) {
         Person person = new Person();
